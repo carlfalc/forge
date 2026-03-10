@@ -1,0 +1,16 @@
+{
+  "name": "forge",
+  "version": "0.1.0",
+  "description": "Forge is a geopolitical event trading system that converts breaking news into actionable forex and commodity trades within seconds. As tensions escalate globally — Ukraine war, China-Taiwan standoff, ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "saas",
+    "the-firm"
+  ],
+  "author": "The Firm — AI Venture Studio",
+  "license": "MIT"
+}
